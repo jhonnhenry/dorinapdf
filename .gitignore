@@ -10,6 +10,11 @@ Config/
 bin/
 obj/
 web/properties/PublishProfiles/
+web/Properties/PublishProfiles/
+web/Properties/ServiceDependencies/
+web/Properties/serviceDependencies.local.json
+web/Properties/serviceDependencies.local.json.user
+web/web.csproj.user
 web/wwwroot/js
 TempFileFolder/
 TempImagesFolder/

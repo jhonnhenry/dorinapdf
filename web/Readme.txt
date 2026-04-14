@@ -26,7 +26,7 @@ https://github.com/tesseract-ocr/tessdata_best
 
 
 leptonica-1.80.0.dll é uma lib requerida no Azure
-C:\Users\Jhonatas\.nuget\packages\tesseract\4.1.1\x86
+\.nuget\packages\tesseract\4.1.1\x86
 
 
 Portable Document Format Reference Manual
